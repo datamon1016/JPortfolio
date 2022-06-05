@@ -15,4 +15,4 @@ of improvement for Covid-19 policies by using Excel and R-Studio.
 used to create data visualizations.
 
 
-![](https://github.com/datamon1016/Jonah_Portfolio/blob/main/Cluster.PNG)
+![](https://github.com/datamon1016/Jonah_Portfolio/blob/main/Cluster2.PNG)
