@@ -9,7 +9,7 @@ of improvement for Covid-19 policies by using Excel and R-Studio.
  
 • Collaborated with other statisticians to collect live data from 100+ student body to assess the public’s opinion on Covid-19 restrictions. 
 
-• Collected data from the survey was wrangled and cleansed using Excel and R
+• Collected data from the survey was wrangled and cleansed using Microsoft Excel and R
 
 • Utilized R-Studio to conduct analysis using methods such as Cluster (K-Means) and Factor analysis. R-Studio was also
 used to create data visualizations.
