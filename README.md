@@ -13,3 +13,4 @@ of improvement for Covid-19 policies by using Excel and R-Studio.
 used to create data visualizations.
 
 • Data extracted from the survey was placed into Microsoft Excel where it was then cleansed and wrangled
+![](https://github.com/datamon1016/Jonah_Portfolio/blob/main/Cluster.PNG)
