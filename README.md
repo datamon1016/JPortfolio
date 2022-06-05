@@ -2,7 +2,7 @@
 Data Science &amp; Analysis Portfolio
 
 
-# Analysis on Restriction Policies
+# [Analysis on Restriction Policies](https://github.com/datamon1016/Jonah_Portfolio/blob/main/R_Analysis.pdf)
 • Identified key factors affecting policy attitudes through analytics allowing for an opportunity for the team to show areas
 of improvement for Covid-19 policies by using Excel and R-Studio.
 
